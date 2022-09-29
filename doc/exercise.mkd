@@ -1,0 +1,143 @@
+# PICUP Exercise Template
+
+---
+title: PICUP Exercise Template
+...
+
+## Description
+
+The Description should be brief, not more than a few sentences, and should provide a cogent description of the physics, the computational approach, and the computational activities contained in the Exercise Set.
+
+## Title
+
+PICUP Exercise Template
+
+## Abbreviated Title
+
+PET
+
+Provide 1-3 words that can be used on your authoring dashboard as an alternative to the longer title of the submission. URL Reference Choose a single word or short acronym that will be used for your contribution's web address. The word or acronym you provide here will be tacked on to the end of [PICUP Exercises](https://www.compadre.org/PICUP/exercises/). For example, if you enter SHO, then the web address for your PICUP submission will be [https://www.compadre.org/PICUP/exercises/SHO](https://www.compadre.org/PICUP/exercises/SHO).
+
+## Picture
+
+Upload an optional digital image that will be displayed adjacent to the title of your contribution to Faculty Commons or Exercise Sets. The addition of this picture is intended to invoke interest in your materials, and does not necessarily need to display any specific result or computational solution behavior. Image files must be in a .gif, .jpg, or .png format, and are limited to 200×300 pixel dimensions. NOTE: There is a maximum allowed size for this image, and it may be necessary to resize. The following website can be used to easily resize an image: [Resize Image](https://resizeimage.net/) (On this page, do not click the "Start Now" button. Instead, to complete the process, click on "Resize Image".) All included licensed images must allow reuse.
+
+## Type
+
+Choose the category for your submission, Faculty Commons, Standard Exercise Set, or Specialized Exercise Set (described in the "Overview" tab).
+
+- Faculty Commons
+- Standard Exercise Set
+- Specialized Exercise Set
+
+## Time to Complete
+
+Optionally estimate how long you envision students would need to complete any exercises or computational activities. The purpose of this entry is to aid potential users of your materials in determining if they are appropriate for their specific classroom situation.
+
+## Course Contexts
+
+Select the topical context of your material (_e.g._, Mechanics, E&M, _etc._). You can select more than one topic.
+
+- Electricity & Magnetism
+- Waves & Optics
+- Thermal & Statistical Physics
+- Modern Physics
+- Condensed Matter Physics
+- High Energy / Particle Physics
+- Biophysics
+- Chemical/Molecular Physics
+- Quantum Mechanics
+- Mathematical/Numerical Methods
+- Experimental Labs
+- Astronomy/Astrophysics
+- Other
+
+## Course Levels
+
+Select the appropriate level for your material (_e.g._, High School, First Year of College, Beyond the First Year). You can select more  than one level, if appropriate.
+
+- High School
+- First Year
+- Beyond the First Year
+- Advanced
+
+## Learning Objectives
+
+Learning Objectives that are connected to the individual exercises are required. The learning objectives should be listed as specific measurable tasks that your students should be able to do upon completion of the Exercise Set. The learning objectives should be listed after the statement, "Students who complete this Exercise Set will be able to:", and the specific exercise(s) with which each learning objective is associated should be indicated in parenthesis and in bold type. For example, the learning objective "Create a graph of a function \[Exercise 3\]" would indicate that exercise 3 applies to this learning objective. Each learning objective may be tied to more than one exercise (_e.g._,\[Exercises 1,2, and 3\] or \[Exercises 1--4\]) and vice versa.
+
+Students who complete this Exercise Set will be able to:
+
+- LO #1
+
+- LO #2
+
+- LO #3
+
+- LO #4
+
+## Instructor's Guide
+
+The Instructor's Guide should provide advice to adopters/adapters on how the educational material contained in the Exercise Set could be used. It could also provide suggestions for further scaffolding of specific exercises and/or computational activities, as well as suggestions for adding higher levels of difficulty or sophistication for particularly astute students. If a particular set of exercises has been extensively tested by an author, a description of problems encountered or details on what to expect from students should be offered. This section could also offer some justification for an author's particular style and preferences. A description of how this computational approach is relevant to the particular topic of the Exercise Set would be helpful. The author is provided a great deal of latitude in determining what exactly is appropriate for this section. Do include whether this has been classroom-tested or not and if it has been used, describe how well it worked and what issues arose.
+
+## Theory
+
+The Theory section should be a self-contained description of the underlying physics of the Exercise Set, or a reference to a published, readily accessible treatment of the topic. This section should also include a detailed description of the numerical approach employed in the computational activity or activities, or an appropriate reference to a readily accessible description of the numerical approach. Keep in mind that first time instructors or someone who hasn't used computation in class before probably needs more guidance than a seasoned instructor --- provide enough background so they don't need to reach for a textbook. When in doubt, provide more detail.
+
+## Experiments
+
+This optional section is available for the inclusion of details of any experiment that could accompany the exercises or computational activities of the Exercise Set, or for which the computational activities play a vital role.
+
+## Exercises
+
+The "Exercises" should consist of a scaffolded set of activities that are designed to demonstrate to potential adopters/adapters how students could be led through the process of interacting with, and solving problems related to, the physical principles and computational methodologies that are presented in the Theory section. A typical individual exercise should be roughly equivalent to an end-of-chapter problem from a text.
+
+## Pseudocode
+
+Pseudocode should be provided for each major exercise or activity within the Exercise Set. Potential adopters/adapters may rely on a clearly outlined pseudocode to fully understand the algorithm or other computational method that is brought to bear in the Exercises Set. The pseudocode should be language-agnostic.
+
+## Solutions
+
+Solutions to the exercises should be provided in sufficient detail to demonstrate the results of an implemented model or computational activity. These solutions are really "suggested solutions." The solution to a computational exercise can vary greatly depending on the instructor's personal pedagogical preferences. Thus, authors are allowed some latitude in the degree of detail required for this section; but, in order to be useful to a non-expert, more detail here is definitely desirable. Solutions will typically include relevant plots.
+
+## References
+
+This optional section can be useful to potential adopters/adapters if a connection between the content of the Exercise Set and basic physics principles is made to a popular physics textbook. If this topic is covered in a certain textbook that you use, please use this section to indicate which chapter/section covers this material.
+
+## File Attachments
+
+### Code Templates
+
+There is a spectrum of what an instructor might require of students to engage them in a computational activity, ranging from "programming from scratch" to "being given a fully working program" .If an instructor wants the students to program from scratch, then a blank page is the starting point; if an instructor wants to provide the fully-working code, the "Completed Code" is the students' starting point; and, if the instructor wants to provide students with something in-between, then a "Code Template" is the starting point. This mode of coding would be of interest to faculty who may not want to have students producing models or simulations from scratch, but still want the students to master the coding at some level. A Code Template could be a version of "almost-working" or "minimally-working" code, and can include programs that are not complete with places indicated where students would be expected to provide the missing code. All notebooks such as Jupyter or Mathematica should include a PDF or plain-text file that shows what the file contains so people who don't have those programs installed can view the contents.
+
+### Completed Code
+
+Completed Code, pertaining to the computational exercises, in at least one programming language is required for an Exercise Set to be complete. Though one programming language is required, it is preferred that authors submit Exercise Sets with completed code in at least three different programming implementations. Authors may want to consider the possibility of getting colleagues involved to assist in producing different implementations. All notebooks should include a PDF or plain-text file that shows what the file contains --- an educator shouldn't have to open any other programs besides the browser to see what the completed code looks like.
+
+### Data Files
+
+This optional section should contain any data files necessary for carrying out the computational activities in the exercises.
+
+## Additional Resources
+
+This optional section should include anything that has not already been included in the required sections for a PICUP Exercise Set, but is necessary for carrying out the computational activities.
+
+## Parametric Data
+
+Table: Parametric Data for PICUP Exercise
+
+  | **Parameter**           | **Value** |
+  |------------------------:|:----------|
+  | **exercise title**      | Title |
+  | **abbreviated title**   | Abbreviated Title |
+  | **author**              | Author |
+  | **author organization** | Author Organization |
+  | **keywords**            | Keywords |
+  | **project No.**         | Project No |
+  | **picture**             | Picture |
+  | **type**                | Type |
+  | **time to complete**    | Time to Complete |
+  | **course context**      | Course Context |
+  | **course level**        | Course Level |
+  | **URL**                 | [https://www.compadre.org/PICUP/exercises/PET](https://www.compadre.org/PICUP/exercises/PET) |
+  
+Now is the time for all 
